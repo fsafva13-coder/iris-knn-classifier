@@ -47,19 +47,19 @@ Beyond basic classification, the project focuses on **finding the optimal K** th
 ## 📸 Screenshots
 
 ### Pairplot — Feature Separability by Species
-![Pairplot](screenshots/pairplot.png)
+<img width="1124" height="1025" alt="1" src="https://github.com/user-attachments/assets/80509b8e-5154-46a3-a589-d135e74a2de7" />
 > Setosa is clearly linearly separable. Versicolour and Virginica overlap slightly — this is where K matters.
 
 ### Accuracy vs K Value
-![K Selection](screenshots/accuracy_vs_k.png)
+<img width="989" height="490" alt="2" src="https://github.com/user-attachments/assets/885531b4-f220-4fc2-b4da-5830c43e7946" />
 > Train and test accuracy plotted across K=1–20. K=1 overfits; the optimal range is typically K=5–7.
 
 ### Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
+<img width="510" height="470" alt="3" src="https://github.com/user-attachments/assets/b16f711b-aa5d-451c-b6e6-c938922776e0" />
 > Near-perfect classification. Any misclassifications occur between Versicolour and Virginica.
 
 ### Classification Report
-![Classification Report](screenshots/classification_report.png)
+<img width="556" height="266" alt="Screenshot 2026-06-01 132214" src="https://github.com/user-attachments/assets/273b32dd-13eb-4712-9f6a-ef2d28eb074f" />
 > Precision, recall, and F1-score per class — all close to 1.00.
 
 ---
